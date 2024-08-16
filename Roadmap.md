@@ -28,7 +28,18 @@ Next we need to understand the control flow operations.
 
 ## Functions
 
+Keep your code DRY (Do not Repeat Yourself).  
+A function is a block of code you can reuse at will so you don't have to repeat yourself.
+
+## Classes and Objects
+
+Classes are quite similar to functions, but instead of focusing on the task, we actually bundle the task along with the data required  
+to perform the task.
+
+## Basic Python modules
 
 
 
-@3/7
+
+
+@4/7
