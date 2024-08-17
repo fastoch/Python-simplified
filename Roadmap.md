@@ -33,12 +33,14 @@ A function is a block of code you can reuse at will so you don't have to repeat 
 
 ## Classes and Objects
 
-Classes are quite similar to functions, but instead of focusing on the task, we actually bundle the task along with the data required  
-to perform the task.
+Classes are quite similar to functions, but instead of focusing on the task, we actually bundle the task along with  
+the data required to perform the task. Classes are basically **blueprints** that allow us to create objects.
 
 ## Basic Python modules
 
-
+- **NumPy**: deals with mathematical operations
+- **pandas**: helps us organize and manipulate data
+- **matplotlib**: creates scientific graphs and plots 
 
 
 
