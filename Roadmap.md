@@ -42,6 +42,13 @@ the data required to perform the task. Classes are basically **blueprints** that
 - **pandas**: helps us organize and manipulate data
 - **matplotlib**: creates scientific graphs and plots 
 
+## Everything else!
+
+From this point, the rest of your journey is entirely up to you.  
+- if you're interested in **machine learning**, try **PyTorch** or **TensorFlow**
+- for building **bots** and **process automation** in general, try **Selenium** or **Beautiful soup**
+- to develop mobile applications with Python, you can try **kivy** or **kivyMD**
+- 
 
 
-@4/7
+@5/7
