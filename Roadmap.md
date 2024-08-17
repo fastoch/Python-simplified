@@ -48,7 +48,6 @@ From this point, the rest of your journey is entirely up to you.
 - if you're interested in **machine learning**, try **PyTorch** or **TensorFlow**
 - for building **bots** and **process automation** in general, try **Selenium** or **Beautiful soup**
 - to develop mobile applications with Python, you can try **kivy** or **kivyMD**
-- 
+- for **web development**, you can use **Django** or **Flask**
+- to develop **desktop applications**, there is **Tkinter** or **PyQt5** 
 
-
-@5/7
